@@ -14,7 +14,7 @@ risk indicators.
 -   Graded Sentiment Analysis
 
 ## Problem Statement
-Customer sentiment analysis based on voice transcript, chat transcript and email transcript. Identify the customer sentiment against different companies. Analysis the dataset and identify key insights. 
+Customer sentiment analysis based chat transcript. Identify the customer sentiment against different companies. Analysis the dataset and identify key insights. 
 
 ## Project Objective
 * Utilize natural language processing techniques to analyze the transcripts and determine the sentiment expressed by customers towards different companies. 
